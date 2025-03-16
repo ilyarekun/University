@@ -1,0 +1,3 @@
+[submodule "2-year/neural-networks-o"]
+	path = 2-year/neural-networks-o
+	url = https://github.com/ilyarekun/nn_article_25.git
